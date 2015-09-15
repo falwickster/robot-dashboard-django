@@ -89,7 +89,7 @@
   </div>
 </div>
 <script>
-  var socket = io();
+  var socket = io.connect('http://localhost:3000');
   socket.on('mqtt', function(msg){
       switch (msg.topic){
           case "Gripper/Alive":
