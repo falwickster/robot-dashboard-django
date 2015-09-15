@@ -1,0 +1,52 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #0D47ED;    
+}
+
+.navbar-inverse {
+  background-color: #050C60;
+}
+.navbar-inverse .navbar-brand {
+ color: #FFF;   
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container {
+  color: black;
+}
+
+#robotPanel {
+  text-align: center;
+  font-family: "Orbitron";
+  font-size: 30px;
+}
+
+.panel-primary > .panel-heading {
+    color: #FFFFFC;
+    background-color: #050C60;
+    border-color: #050C60;
+}
+
+.jumbotron {
+  background-color: #3E78BA;
+  text-align: center;
+}
+
+.glyphicon-ok {
+    color: green;
+}
+
+.glyphicon-remove {
+    color: red;
+}
+
+.gauge {
+        margin-top: -140px;
+        margin-bottom: -140px;
+        display: block;
+        float: left;
+    }
