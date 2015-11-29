@@ -1,14 +1,14 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #0D47ED;    
+  background-color: #0D47ED;
 }
 
 .navbar-inverse {
   background-color: #050C60;
 }
 .navbar-inverse .navbar-brand {
- color: #FFF;   
+ color: #FFF;
 }
 
 a {
@@ -45,8 +45,8 @@ a {
 }
 
 .gauge {
-        margin-top: -140px;
-        margin-bottom: -140px;
+        margin-top: -200px;
+        margin-bottom: -200px;
         display: block;
         float: left;
     }
